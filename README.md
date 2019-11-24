@@ -1,6 +1,7 @@
 # Election - DAPP 
 A decentralized voting application to hold an election between two candidates
-## Getting Started 
+
+## Steps to install and run the application
 
 ## Step 1. Clone the project
 git clone https://github.com/ankitsaxena21/ELECTION-DAPP.git
