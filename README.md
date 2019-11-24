@@ -1,4 +1,3 @@
-
 # Election - DAPP 
 A decentralized voting application to hold an election between two candidates
 ## Getting Started 
