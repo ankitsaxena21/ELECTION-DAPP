@@ -10,14 +10,15 @@ git clone https://github.com/ankitsaxena21/ELECTION-DAPP.git
 $ cd election
 $ npm install
 ## Step 3. Start Ganache
-Open the Ganache GUI client. This will start your local blockchain instance.
+Open the Ganache GUI client to start your local blockchain instance.
 
 ## Step 4. Compile & Deploy Election Smart Contract
-$ truffle migrate --reset You must migrate the election smart contract each time your restart ganache.
+$ truffle migrate --reset 
 
 ## Step 5. Configure Metamask
 Connect metamask to your local Etherum blockchain provided by Ganache.
 Import an account provided by ganache.
 
 ## Step 6. Run the Front End Application
-$ npm run dev Visit this URL in your browser: http://localhost:3000
+$ npm run dev 
+Visit http://localhost:3000 in your browser.
