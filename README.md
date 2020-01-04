@@ -7,8 +7,8 @@ A decentralized voting application to hold an election between two candidates
 git clone https://github.com/ankitsaxena21/ELECTION-DAPP.git
 
 ## Step 2. Install dependencies
-$ cd election
-$ npm install
+$ cd election.
+$ npm install.
 ## Step 3. Start Ganache
 Open the Ganache GUI client to start your local blockchain instance.
 
